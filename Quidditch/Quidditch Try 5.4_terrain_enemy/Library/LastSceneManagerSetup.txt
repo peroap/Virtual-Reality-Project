@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Quidditch Try 5_with_Pitch.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

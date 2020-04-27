@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0BA29E7F-922A-5178-CAA9-B63F766A9D75}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ThrowBall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ThrowBall.cs" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quidditch Try 5.4_terrain_enemy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ThrowBall.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8df549ac-b528-47c4-9551-30775c21e727" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
